@@ -4,7 +4,7 @@ Welcome to the Tic-Tac-Toe game! This is a web-based implementation of the class
 
 ## Getting Started
 
-To play the game, simply open the `index.html` file in a web browser. You can also try the game online [here](insert-link-to-online-demo).
+To play the game, simply open the `index.html` file in a web browser. You can also try the game online [here](https://narayanshettigar.github.io/Tic-Tac-Toe-Game-using-JavaScript/).
 
 ## How to Play
 
